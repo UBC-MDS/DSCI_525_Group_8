@@ -6,9 +6,7 @@ This project aims to build and deploy an ensemble machine learning model to pred
 
 ## Contributors
 
-|  Contributor  |  Github Username |
-|--------------|------------------|
-|  Lisa |  @LisaSeq |
-|  Marian  |  @marianagyby |
-|  Dudu (Chenyang) |  @wakesyracuse7  |
-|  Mehwish | @MNBhat |
+- Lisa Sequeira
+- Marian Agyby
+- Dudu (Chenyang) Wang
+- Mehwish
